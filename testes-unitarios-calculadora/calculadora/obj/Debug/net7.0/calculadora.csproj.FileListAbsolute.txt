@@ -1,0 +1,12 @@
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\obj\Debug\net7.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\obj\Debug\net7.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfo.cs
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\obj\Debug\net7.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\bin\Debug\net7.0\calculadora.deps.json
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\bin\Debug\net7.0\calculadora.dll
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\bin\Debug\net7.0\calculadora.pdb
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\obj\Debug\net7.0\calculadora.dll
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\obj\Debug\net7.0\refint\calculadora.dll
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\obj\Debug\net7.0\calculadora.pdb
+C:\Users\gfsan\Documents\dio-projetos\formacao QA Experience\testes-unitarios-calculadora\calculadora\obj\Debug\net7.0\ref\calculadora.dll
